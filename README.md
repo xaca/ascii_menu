@@ -1,2 +1,6 @@
-# ascii_menu
-Ejercicio de clase de fundamentos de programación para probar el bestiario de variables, las secuencias de escape, menú usando ciclos y luego manipulación de cadenas
+			        _____  _____ _____ _____            ______ _    _ _   _ 
+		     /\    / ____|/ ____|_   _|_   _|          |  ____| |  | | \ | |
+		    /  \  | (___ | |      | |   | |    ______  | |__  | |  | |  \| |
+		   / /\ \  \___ \| |      | |   | |   |______| |  __| | |  | | . ` |
+		  / ____ \ ____) | |____ _| |_ _| |_           | |    | |__| | |\  |
+		 /_/    \_\_____/ \_____|_____|_____|          |_|     \____/|_| \_|
