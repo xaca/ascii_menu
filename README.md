@@ -29,7 +29,7 @@ Console.WriteLine("\\hola\\");
 >  1. Dibujar un cuadrado de N por M líneas  
 >  2. Traducir un emoji a una expresión escrita  
 >  3. Códificar un texto usando la clave murciélago 
-> -1. Para salir  
+>  -1. Para salir  
 
 4. Pida el dato, valide que sea ingresado correctamente usando la estructura switch y TryParse
 
