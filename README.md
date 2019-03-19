@@ -28,10 +28,10 @@ Console.WriteLine("\\hola\\");
 > Ingrese una opción así:  
 >  1. Dibujar un cuadrado de N por M líneas  
 >  2. Traducir un emoji a una expresión escrita  
->  3. Códificar un texto usando la clave murciélago  
+>  3. Códificar un texto usando la clave murciélago
 > -1. Para salir  
 
-4. Pida el dato, valide que sea ingresado correctamente usando la estructura switch
+4. Pida el dato, valide que sea ingresado correctamente usando la estructura switch y TryParse
 
 5. Si el usuario ingresa un número incorrecto vuelva a pedir el valor, si ingresa -1 termine el programa.
 
