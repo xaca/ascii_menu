@@ -1,0 +1,7 @@
+c:\users\000012314\documents\visual studio 2015\Projects\AsciiMenu\AsciiMenu\bin\Debug\AsciiMenu.exe.config
+C:\Users\Public\Documents\2019\ascii_menu\AsciiMenu\bin\Debug\AsciiMenu.exe.config
+C:\Users\Public\Documents\2019\ascii_menu\AsciiMenu\bin\Debug\AsciiMenu.exe
+C:\Users\Public\Documents\2019\ascii_menu\AsciiMenu\bin\Debug\AsciiMenu.pdb
+C:\Users\Public\Documents\2019\ascii_menu\AsciiMenu\obj\Debug\AsciiMenu.csprojResolveAssemblyReference.cache
+C:\Users\Public\Documents\2019\ascii_menu\AsciiMenu\obj\Debug\AsciiMenu.exe
+C:\Users\Public\Documents\2019\ascii_menu\AsciiMenu\obj\Debug\AsciiMenu.pdb

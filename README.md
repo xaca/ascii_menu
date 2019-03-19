@@ -27,9 +27,9 @@ Console.WriteLine("\\hola\\");
 
 > Ingrese una opción así:
 >  1. Dibujar un cuadrado de N por M líneas  
->  2. Traducir un emoji a una expresión escrita  
->  3. Códificar un texto usando la clave murcielago  
-> -1. Para salir  
+>  2. Traducir un emoji a una expresión escrita
+>  3. Códificar un texto usando la clave murcielago
+> -1. Para salir 
 
 4. Implemente el código de cada opción del menú.
 
