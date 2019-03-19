@@ -26,9 +26,16 @@ Console.WriteLine("\\hola\\");
 3. Cree un ciclo que utilice una variable centinela para detectar cuando salir del menú, el valor para salir es -1.
 
 > Ingrese una opción así:
->  1. Dibujar un cuadrado de N por M líneas
->  2. Traducir un emoji a una expresión escrita
->  3. Códificar un texto usando la clave murcielago
-> -1. Para salir
+>  1. Dibujar un cuadrado de N por M líneas  
+>  2. Traducir un emoji a una expresión escrita  
+>  3. Códificar un texto usando la clave murcielago  
+> -1. Para salir  
 
 4. Implemente el código de cada opción del menú.
+
+### Sitios de referencia
+
++[Ascii art, buena galeria de ejemplos](https://asciiart.website)
++[Ascii art text](http://patorjk.com/software/taag/#p=display&f=Impossible&t=xaca%20rana)
++[Otra opción de texto](http://www.network-science.de/ascii/)
+
