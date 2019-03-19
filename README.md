@@ -35,7 +35,7 @@ Console.WriteLine("\\hola\\");
 
 ### Sitios de referencia
 
-+[Ascii art, buena galeria de ejemplos](https://asciiart.website)
-+[Ascii art text](http://patorjk.com/software/taag/#p=display&f=Impossible&t=xaca%20rana)
-+[Otra opción de texto](http://www.network-science.de/ascii/)
++ [Ascii art, buena galeria de ejemplos](https://asciiart.website)  
++ [Ascii art text](http://patorjk.com/software/taag/#p=display&f=Impossible&t=xaca%20rana)  
++ [Otra opción de texto](http://www.network-science.de/ascii/)  
 
