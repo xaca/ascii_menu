@@ -14,11 +14,11 @@
 1. Imprimir un diseño de máximo 5 líneas usando ascii art y csharp   
   
 > **Recuerde** que para imprimir en consola las cadenas:  
-> "hola" y &setmn;hola&setmn;, se debe usar una secuencia de escape, así:  
-> \"hola\" y &setmn;&setmn;hola&setmn;&setmn;  
+> "hola" y &bsol;hola&bsol;, se debe usar una secuencia de escape, así:  
+> \"hola\" y &bsol;&bsol;hola&bsol;&bsol;  
   
 ```csharp  
-Console.WriteLine("&setmn;"hola&setmn;"");  
+Console.WriteLine("\"hola\"");  
 Console.WriteLine("\\hola\\");  
 ```  
 2. Crear un menú personalizado, usando ascii art y secuencias de escape, se recomienda usar *borders*
@@ -30,3 +30,5 @@ Console.WriteLine("\\hola\\");
 >  2. Traducir un emoji a una expresión escrita
 >  3. Códificar un texto usando la clave murcielago
 > -1. Para salir
+
+4. Implemente el código de cada opción del menú.
