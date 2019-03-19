@@ -8,9 +8,17 @@
 		        /\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\
 			\/ \/ \/ \/ \/ \/ \/ \/ \/ \/ \/ \/ \/ \/ \/ \/ \/ \/
 			
-			#Instrucciones del ejercicio
+			# Instrucciones del ejercicio
 			
-			##Secuencias de escape
+			## Secuencias de escape
 			1. Imprimir un diseño de maximo 5 líneas usando ascci art y c#
 			
+			> **Recuerde** que para imprimir en consola las cadenas:
+			> "hola" y \hola\, se debe usar una secuencia de escape, así:
+			> \"hola\" y \\hola\\
+			
+			```csharp
+			Console.WriteLine("\"hola\"");
+			Console.WriteLine("\\hola\\");
+			```
 			2. 
