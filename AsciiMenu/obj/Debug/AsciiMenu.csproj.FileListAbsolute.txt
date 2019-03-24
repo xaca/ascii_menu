@@ -5,3 +5,10 @@ C:\Users\Public\Documents\2019\ascii_menu\AsciiMenu\bin\Debug\AsciiMenu.pdb
 C:\Users\Public\Documents\2019\ascii_menu\AsciiMenu\obj\Debug\AsciiMenu.csprojResolveAssemblyReference.cache
 C:\Users\Public\Documents\2019\ascii_menu\AsciiMenu\obj\Debug\AsciiMenu.exe
 C:\Users\Public\Documents\2019\ascii_menu\AsciiMenu\obj\Debug\AsciiMenu.pdb
+E:\desarrollo\2019-01\ascii_menu\AsciiMenu\bin\Debug\AsciiMenu.exe.config
+E:\desarrollo\2019-01\ascii_menu\AsciiMenu\bin\Debug\AsciiMenu.exe
+E:\desarrollo\2019-01\ascii_menu\AsciiMenu\bin\Debug\AsciiMenu.pdb
+E:\desarrollo\2019-01\ascii_menu\AsciiMenu\obj\Debug\AsciiMenu.csprojAssemblyReference.cache
+E:\desarrollo\2019-01\ascii_menu\AsciiMenu\obj\Debug\AsciiMenu.csproj.CoreCompileInputs.cache
+E:\desarrollo\2019-01\ascii_menu\AsciiMenu\obj\Debug\AsciiMenu.exe
+E:\desarrollo\2019-01\ascii_menu\AsciiMenu\obj\Debug\AsciiMenu.pdb
