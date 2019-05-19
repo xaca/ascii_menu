@@ -66,10 +66,26 @@ namespace AsciiMenu
                                         }
                                     }
                                 }
-                            Console.WriteLine("< Presione cualquier tecla para volver al menú");
+                                Console.WriteLine("< Presione cualquier tecla para volver al menú");
                                 Console.ReadKey(); //Para poder ver el resultado 
                                 break;
                         case 2: Console.WriteLine("------------Traducir emoji pendiente--------------------");
+                                Console.WriteLine("Ingrese un emoji en ascii art");
+                                temp = Console.ReadLine();
+                                switch(temp)
+                                {
+                                    case ":)": temp = "feliz";
+                                               break;
+                                    case ":(": temp = "triste";
+                                        break;
+                                    case "(y)": temp = "todo bien";
+                                        break;
+                                    case "<3":temp = "love";
+                                        break;
+                                    default: temp = "no reconocido";
+                                        break;
+                                }
+                                Console.WriteLine("La expresión del emoji es " +temp);
                                 break;
                         case 3: Console.WriteLine("------------Codificar texto clave murcielago--------------------");
                                 break;
