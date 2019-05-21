@@ -88,6 +88,19 @@ namespace AsciiMenu
                                 Console.WriteLine("La expresión del emoji es " +temp);
                                 break;
                         case 3: Console.WriteLine("------------Codificar texto clave murcielago--------------------");
+                                Console.WriteLine("Ingresa la palabra a ser codificada");
+                                temp = Console.ReadLine();
+                                temp = temp.Replace('m', '0');
+                                temp = temp.Replace('u', '1');
+                                temp = temp.Replace('r', '2');
+                                temp = temp.Replace('c', '3');
+                                temp = temp.Replace('i', '4');
+                                temp = temp.Replace('e', '5');
+                                temp = temp.Replace('l', '6');
+                                temp = temp.Replace('a', '7');
+                                temp = temp.Replace('g', '8');
+                                temp = temp.Replace('o', '9');
+                                Console.WriteLine("Palabra codificada " + temp);
                                 break;
                         default:
                                 break;
