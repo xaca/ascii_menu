@@ -94,8 +94,8 @@ Portuguese:
 1. Imprimir um desenho de máximo 5 linhas utilizando ascii art e csharp   
   
 > **Lembre-se** que para imprimir no console as cadeias:  
-> "olá" y &bsol;olá&bsol;, deve-se utilizar a sguinta sequancia de saída:  
-> \"olá\" y &bsol;&bsol;olá&bsol;&bsol;  
+> "olá" e &bsol;olá&bsol;, deve-se utilizar a sguinta sequancia de saída:  
+> \"olá\" e &bsol;&bsol;olá&bsol;&bsol;  
   
 ```csharp  
 Console.WriteLine("\"olá\"");  
@@ -122,3 +122,4 @@ Console.WriteLine("\\olá\\");
 + [Ascii art, galeria com bons exemplos](https://asciiart.website)  
 + [Ascii art texto](http://patorjk.com/software/taag/#p=display&f=Impossible&t=xaca%20rana)  
 + [Outra opção de texto](http://www.network-science.de/ascii/)
++ [Clave murciélago](https://cardenalferrari.com.ar/calve-murcielago/#!prettyPhoto/)
