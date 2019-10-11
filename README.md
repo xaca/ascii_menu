@@ -90,7 +90,7 @@ Console.WriteLine("\\hola\\");
 Portuguese:
 # Instruções para o exercício  
   
-## Secuencias de saída  
+## Sequêcias de saída  
 1. Imprimir um desenho de máximo 5 linhas utilizando ascii art e csharp   
   
 > **Lembre-se** que para imprimir no console as cadeias:  
