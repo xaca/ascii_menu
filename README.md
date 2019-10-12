@@ -83,4 +83,43 @@ Console.WriteLine("\\hola\\");
 
 + [Ascii art, a good gallery of examples.](https://asciiart.website)  
 + [Ascii art text](http://patorjk.com/software/taag/#p=display&f=Impossible&t=xaca%20rana)  
-+ [Another text option](http://www.network-science.de/ascii/)  
++ [Another text option](http://www.network-science.de/ascii/)
+
+
+
+Portuguese:
+# Instruções para o exercício  
+  
+## Sequêcias de saída  
+1. Imprimir um desenho de máximo 5 linhas utilizando ascii art e csharp   
+  
+> **Lembre-se** que para imprimir no console as cadeias:  
+> "olá" e &bsol;olá&bsol;, deve-se utilizar a seguinte sequência de saída:  
+> \"olá\" e &bsol;&bsol;olá&bsol;&bsol;  
+  
+```csharp  
+Console.WriteLine("\"olá\"");  
+Console.WriteLine("\\olá\\");  
+```  
+2. Crie um menu pesonalizado, usando ascii art e sequências de saída. É recomendado que se usem *borders*
+
+3. Crie um ciclo com uma variável auxiliar para saber quando sair do menu, o valor de saída é -1.
+
+> Selecione uma opção assim::  
+>  1. Desenhe um quadrado de N por M linhas 
+>  2. Traduzir um emoji para uma expressão escrita
+>  3. Codificar um texto utilizando a "clave murciélago"
+> -1. Para sair  
+
+4. Peça um dado, verifique a validade utilizando switch e TryParse
+
+5. Se o valor digitado for valido peça outro valor, se o valor for -1 encerre o programa.
+
+6. Implemente um código para cada opção do menu.
+
+### Sites de referencia
+
++ [Ascii art, galeria com bons exemplos](https://asciiart.website)  
++ [Ascii art texto](http://patorjk.com/software/taag/#p=display&f=Impossible&t=xaca%20rana)  
++ [Outra opção de texto](http://www.network-science.de/ascii/)
++ [Clave murciélago](https://cardenalferrari.com.ar/calve-murcielago/#!prettyPhoto/)
