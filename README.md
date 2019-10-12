@@ -94,18 +94,18 @@ Portuguese:
 1. Imprimir um desenho de máximo 5 linhas utilizando ascii art e csharp   
   
 > **Lembre-se** que para imprimir no console as cadeias:  
-> "olá" e &bsol;olá&bsol;, deve-se utilizar a sguinta sequancia de saída:  
+> "olá" e &bsol;olá&bsol;, deve-se utilizar a seguinte sequência de saída:  
 > \"olá\" e &bsol;&bsol;olá&bsol;&bsol;  
   
 ```csharp  
 Console.WriteLine("\"olá\"");  
 Console.WriteLine("\\olá\\");  
 ```  
-2. Cria um menu pesonalizado, usando ascii art e secuencias de saída. É recomendado que se usem *borders*
+2. Crie um menu pesonalizado, usando ascii art e sequências de saída. É recomendado que se usem *borders*
 
-3. Cria um ciclo com uma variável auxiliar para saber quando sair domenu, o valor de saída é -1.
+3. Crie um ciclo com uma variável auxiliar para saber quando sair do menu, o valor de saída é -1.
 
-> Ingrese una opción así:  
+> Selecione uma opção assim::  
 >  1. Desenhe um quadrado de N por M linhas 
 >  2. Traduzir um emoji para uma expressão escrita
 >  3. Codificar um texto utilizando a "clave murciélago"
